@@ -13,9 +13,8 @@
 - [FAQ](#faq)
 
 # Getting Started
-Memory Apiyo
 
-[This repo](https://github.com/10acad/git-get-started.git) is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. 
+[This repo](https://github.com/10acad/git-eth-contribute.git) is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. 
 
 ## Setting up softwares
 
@@ -59,7 +58,7 @@ You should see the branch name change on the terminal prompt. Congratulations! Y
 
 ## Editing files
 
-Create a new text file in the [contributors](contributors/) folder with your github handle as the file name. This file should contain your name. A sample file [aryadas98.txt](contributors/aryadas98.txt) has been provided.
+Create a new text file in the [contributors](contributors/) folder with your github handle as the file name. This file should contain your name. A sample file [10acad.txt](contributors/10acad.txt) has been provided.
 
 ## Adding and commiting changes
 
@@ -96,31 +95,4 @@ You can learn more about Git and GitHub here:
 - https://www.youtube.com/watch?v=w3jLJU7DT5E
 - https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
 
-# Rules and scoring system
 
-- **1 point** for contributing to this repo by adding a file, namely [YourGitHubUsername].txt which contains your name, to the [contributors](contributors) folder.
-- **2 points** for opening a legitimate issue in any of the projects announced for NWoC.
-- **5 points** for solving an issue labelled *“Beginner”*.
-- **10 points** for solving an issue labelled *“Intermediate”*.
-- **15 points** for solving an issue labelled *“Difficult”*.
-- In case of equal scores, the one who has solved more number of difficult issues will be given priority.
-- In case of any disputes/discrepancies, the final decision shall be taken by the mentors of the respective projects.
-
-
-**Some other important points:**
-
-- Any contributions made prior to the beginning of the coding period (1st December) will NOT be counted towards the final score.
-- Students should NOT review other student’s Pull Requests under any circumstances. Let the mentors alone review the Pull Requests.
-- Please try to Google your doubts before directly contacting mentors or posting on the Gitter channel itself.
-
-
-# FAQ
-
-1. **I have exams till mid-December. What to do? Can I still participate?**  
-Yes, definitely! You can register anytime during the entire duration of the program and start contributing to the various projects. It is never late to contribute to the projects :-)
-
-1. **What prizes shall I receive?**  
-Apart from a digital certificate, whatever merchandise we obtain from the sponsors, we'll distribute those among the active contributors. However, we would like to emphasise on the fact that this is more of a program to encourage Open Source, rather than a contest. So, your aim should be to learn along with the community and enjoy working on the projects, rather than to compete to get to the top. Cheers :-)
-
-1. **Which language should I know to participate in NWoC?**  
-We will try to include projects in almost all common programming languages. However, you will have to work with Git and GitHub to contribute to any of the projects. You can learn to use these during NWoC itself, or you can start learning them from https://classroom.udacity.com/courses/ud775.
